@@ -99,9 +99,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "#",
+    github: "https://github.com/Vyshnav31",
     facebook: "#",
-    linkedin: "#",
+    linkedin: "http://www.linkedin.com/in/vyshnav-kumar-a-561163250",
     twitter: "#",
 };
 export {
