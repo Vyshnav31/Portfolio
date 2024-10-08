@@ -11,15 +11,21 @@ const introdata = {
         second: "I code cool websites",
         third: "I am a Full Stack Developer",
     },
-    description: "My name is Vyshnav Kumar and i'm 3rd year student pursuing B.tech, CSE(core ) from VIT Chennai ,i'm interested in problem solving ,Web development and UI/UX.I'm quite good in solving coding questions and improve my skills day to day which helps me in real time world and i have a good communicational skills which helps me in gathering of information",
-    your_img_url: "https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz",
+    description: "Hi, I’m Vyshnav Kumar, currently pursuing my B.Tech at VIT Chennai. I have a strong foundation in front-end development and experience with languages like Java, Python, and JavaScript. I’ve worked on projects involving blockchain, such as an Ethereum Deposit Tracker and a Voting App, and I’m also certified in Google Cloud, AWS, and the MERN Stack. Additionally, I’ve interned as a Data Science Intern and Web Developer, where I applied machine learning and built web applications. I’m passionate about exploring new technologies and contributing to open-source projects",
+    your_img_url: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGxhcHRvcCUyMHN0dWR5fGVufDB8fDB8fHww",
 };
 
 const dataabout = {
     title: "about my self",
-    aboutme: "My name is Vyshnav Kumar and i'm 3rd year student pursuing B.tech, CSE(core ) from VIT Chennai ,i'm interested in problem solving ,Web development and UI/UX.I'm quite good in solving coding questions and improve my skills day to day which helps me in real time world and i have a good communicational skills which helps me in gathering of information",
+    aboutme: "Hi, I’m Vyshnav Kumar, currently pursuing my B.Tech at VIT Chennai. I have a strong foundation in front-end development and experience with languages like Java, Python, and JavaScript. I’ve worked on projects involving blockchain, such as an Ethereum Deposit Tracker and a Voting App, and I’m also certified in Google Cloud, AWS, and the MERN Stack. Additionally, I’ve interned as a Data Science Intern and Web Developer, where I applied machine learning and built web applications. I’m passionate about exploring new technologies and contributing to open-source projects",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
+      jobtitle:"IT & WebDeveloper" ,
+        where:"BasketHunt",
+        date:"2024",
+    },
+    {
         jobtitle: "Data Science intern ",
         where: "Capabl",
         date: "2023",
@@ -73,13 +79,13 @@ const dataportfolio = [{
     },
     {
         img: "https://www.joomshaper.com/images/2018/09/24/parallax-effect-banner.gif",
-        description: "Parallax Scroll ",
-        link: "https://vyshnav31.github.io/Parallax-scrolling/",
+        description: "CarDhundo",
+        link: "https://github.com/Vyshnav31/CarDhundo",
     },
     {
         img: "https://developer.redis.com/assets/images/chatapp_homepage-e18893a7fe583a1dbda4c15347ee9d52.png",
         description: "Real-time chat application",
-        link: "#",
+        link: "https://github.com/Vyshnav31/ChatApp",
     },
     {
         img: "https://www.featuretools.com/wp-content/uploads/2018/12/taxi-min-1024x1024.jpg",
